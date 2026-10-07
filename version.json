@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "1.0.52-kmp",
-  "downloadUrl": "https://github.com/sharabdin1988/bridge/releases/download/v1.0.52-kmp/Bridge-KMP-v1.0.52-debug.apk",
-  "changelog": "1. Свободное перемещение плашки звонка по экрану (не перекрывает меню).\n2. Исправлено отключение микрофона при сворачивании приложения (foregroundServiceType phoneCall|microphone).\n3. Смена аватарки в настройках профиля.\n4. Открытие и просмотр отправленных/полученных файлов в чате."
+  "versionCode": 53,
+  "versionName": "1.0.53-kmp",
+  "downloadUrl": "https://github.com/sharabdin1988/bridge/releases/download/v1.0.53-kmp/Bridge-KMP-v1.0.53-debug.apk",
+  "changelog": "1. Защищённый канал обновлений: проверка и скачивание обновлений через Anti-DPI с подменой SNI и прокси.\n2. Смена никнейма и сетевого статуса (о себе) с мгновенной трансляцией контактам.\n3. Полноэкранный просмотр аватарок собеседников и своего профиля.\n4. Улучшенная стабильность соединений."
 }
