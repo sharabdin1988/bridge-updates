@@ -1,7 +1,7 @@
 {
   "versionCode": 65,
   "versionName": "1.0.65-kmp",
-  "downloadUrl": "https://github.com/sharabdin1988/bridge/releases/download/v1.0.65-kmp/Bridge-KMP-v1.0.65-debug.apk",
+  "downloadUrl": "https://github.com/sharabdin1988/bridge-updates/releases/download/v1.0.65-kmp/Bridge-KMP-v1.0.65-debug.apk",
   "url": "https://cloud.midla.ru/updates/Bridge-KMP-v1.0.65-debug.apk",
   "changelog": "1. Публикация и синхронизация аватарок: аватар автоматически публикуется через vCard и PEP (XEP-0084/0153), транслируется в presence и мгновенно виден контактам.\n2. Локальное шифрованное кэширование Base64 аватаров на диск (LocalVault).\n3. Надёжный сервер обновлений: прямая Anti-DPI загрузка APK по статическому IP в обход подмены DNS оператором связи.\n4. Включает v1.0.64 (тема «Матрица»), v1.0.63 (отметки прочтения), v1.0.62 (OMEMO)."
 }
