@@ -1,7 +1,7 @@
 {
-  "versionCode": 67,
-  "versionName": "1.0.67-kmp",
-  "downloadUrl": "https://github.com/sharabdin1988/bridge-updates/releases/download/v1.0.67-kmp/Bridge-KMP-v1.0.67-debug.apk",
-  "url": "https://cloud.midla.ru/updates/Bridge-KMP-v1.0.67-debug.apk",
-  "changelog": "1. Обновления по воздуху снова приходят: проверяются все серверы, берётся самая новая версия.\n2. Файлы в чате можно скачать (Загрузки/Bridge).\n3. Пересылка файлов и фото работает — файл заново загружается на сервер.\n4. Фото открывается как в WhatsApp: поверх чата, без обрезки, зум, свайп вниз закрывает.\n5. Аватарки: повторная попытка загрузки."
+  "versionCode": 75,
+  "versionName": "1.0.75-kmp",
+  "downloadUrl": "https://github.com/sharabdin1988/bridge-updates/releases/download/v1.0.75-kmp/Bridge-KMP-v1.0.75-debug.apk",
+  "url": "https://cloud.midla.ru/updates/Bridge-KMP-v1.0.75-debug.apk",
+  "changelog": "1. Защита от дребезга вызовов: устранена гонка сессий при повторных нажатиях кнопок вызова (debounce 2.5 сек).\n2. Отказоустойчивый WebRTC Anti-DPI туннель: быстрый таймаут 4 сек при блокировке сотовыми ТСПУ.\n3. Параллельные IceServer: одновременный опрос прямого UDP TURN (порт 3478) и TLS-релея для быстрого соединения на мобильных сетях.\n4. Тема «Матрица»: мягкий фосфорный акцент, адаптивные чипсы фильтров и переключатели."
 }
