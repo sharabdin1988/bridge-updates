@@ -1,9 +1,9 @@
 {
-  "versionCode": 205,
-  "versionName": "1.0.205-kmp",
+  "versionCode": 206,
+  "versionName": "1.0.206-kmp",
   "downloadUrl": "https://raw.githubusercontent.com/sharabdin1988/bridge-updates/main/BridgeKMP-debug.apk",
   "url": "https://raw.githubusercontent.com/sharabdin1988/bridge-updates/main/BridgeKMP-debug.apk",
-  "sha256": "a300729faced861e7b007cbb881944dcfa8934346ae74a0424aeb50a637d40fc",
-  "size": 24531258,
-  "changelog": "• Безопасность OMEMO (TOFU): предупреждение в чате при смене ключа устройства собеседника (переустановка/подмена).\n• Устранён спам ошибками «нет ключа для device»: собственные carbon-сообщения с других устройств отфильтровываются без ошибок.\n• Веб-ссылки отображаются текстом, а не файлами-документами."
+  "sha256": "98265c899e5c564468c5cbf6e7264e1d1286dd9b17dd8135fbf03d96d664b614",
+  "size": 28235731,
+  "changelog": "• Сообщения, написанные на другом вашем устройстве, теперь видны в чате с собеседником (как исходящие), а не приходят себе.\n• Превью вложений при открытой клавиатуре уменьшается — окно чата не пропадает."
 }
