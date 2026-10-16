@@ -1,9 +1,9 @@
 {
-  "versionCode": 198,
-  "versionName": "1.0.198-kmp",
+  "versionCode": 200,
+  "versionName": "1.0.200-kmp",
   "downloadUrl": "https://raw.githubusercontent.com/sharabdin1988/bridge-updates/main/BridgeKMP-debug.apk",
   "url": "https://raw.githubusercontent.com/sharabdin1988/bridge-updates/main/BridgeKMP-debug.apk",
-  "sha256": "6e052c6793077d62745392f3fbb7e1940211a8bcf77e637ed27c342bfad87d6e",
-  "size": 27954930,
-  "changelog": "• Добавлен тактильный виброотклик (haptic feedback) при выделении сообщений.\n• Плавный скроллинг чата и оптимизация перерисовки в LazyColumn (@Immutable).\n• Быстрый Markdown-рендеринг текста ответов.\n• Улучшена стабильность соединения и обход блокировок."
+  "sha256": "d742cb685d34761cbf203c50243c79a546c84da1101806782fc4e733d2d9d654",
+  "size": 24531255,
+  "changelog": "• Интерактивные хэштеги (#) и упоминания (@): кликабельные теги с поиском по чату.\n• Автодополнение при вводе @: быстрый выбор участников и ИИ-агентов.\n• Улучшенная фильтрация ИИ-команд: автофильтрация палитры при вводе слэша (/).\n• XMPP over WebSocket (RFC 7395): энергоэффективный транспорт с автопереключением на BOSH."
 }
