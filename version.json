@@ -1,9 +1,9 @@
 {
-  "versionCode": 204,
-  "versionName": "1.0.204-kmp",
+  "versionCode": 205,
+  "versionName": "1.0.205-kmp",
   "downloadUrl": "https://raw.githubusercontent.com/sharabdin1988/bridge-updates/main/BridgeKMP-debug.apk",
   "url": "https://raw.githubusercontent.com/sharabdin1988/bridge-updates/main/BridgeKMP-debug.apk",
-  "sha256": "0a93659bcad242125cfc09299df8a267193ac67a870dc1e7dae71299f5166485",
+  "sha256": "a300729faced861e7b007cbb881944dcfa8934346ae74a0424aeb50a637d40fc",
   "size": 24531258,
-  "changelog": "• Веб-ссылки больше не отображаются как файлы-документы.\n• Мультидевайс (XEP-0280): исходящие видны на всех устройствах.\n• Ответы ИИ не проваливаются в подчат."
+  "changelog": "• Безопасность OMEMO (TOFU): предупреждение в чате при смене ключа устройства собеседника (переустановка/подмена).\n• Устранён спам ошибками «нет ключа для device»: собственные carbon-сообщения с других устройств отфильтровываются без ошибок.\n• Веб-ссылки отображаются текстом, а не файлами-документами."
 }
