@@ -1,9 +1,9 @@
 {
-  "versionCode": 203,
-  "versionName": "1.0.203-kmp",
+  "versionCode": 204,
+  "versionName": "1.0.204-kmp",
   "downloadUrl": "https://raw.githubusercontent.com/sharabdin1988/bridge-updates/main/BridgeKMP-debug.apk",
   "url": "https://raw.githubusercontent.com/sharabdin1988/bridge-updates/main/BridgeKMP-debug.apk",
-  "sha256": "be878a48207408a8330d0939fe8c7ed7138450ba7e5204a5569166710c218ef0",
+  "sha256": "0a93659bcad242125cfc09299df8a267193ac67a870dc1e7dae71299f5166485",
   "size": 24531258,
-  "changelog": "• Мультидевайс (XEP-0280): сообщения отправленные с одного устройства теперь видны на всех твоих устройствах в реальном времени.\n• Ничего не сохраняется на сервере — синхронизация через RAM сервера, без архивирования.\n• Цитаты (XEP-0461): бот видит текст выделенного сообщения.\n• Переименование подтем: долгий тап по чипу подтемы."
+  "changelog": "• Веб-ссылки больше не отображаются как файлы-документы.\n• Мультидевайс (XEP-0280): исходящие видны на всех устройствах.\n• Ответы ИИ не проваливаются в подчат."
 }
